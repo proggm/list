@@ -1,0 +1,8 @@
+E:\проекты\qwerty\qwerty\obj\Debug\qwerty.csproj.AssemblyReference.cache
+E:\проекты\qwerty\qwerty\obj\Debug\qwerty.csproj.SuggestedBindingRedirects.cache
+E:\проекты\qwerty\qwerty\obj\Debug\qwerty.csproj.CoreCompileInputs.cache
+E:\проекты\qwerty\qwerty\bin\Debug\qwerty.exe.config
+E:\проекты\qwerty\qwerty\bin\Debug\qwerty.exe
+E:\проекты\qwerty\qwerty\bin\Debug\qwerty.pdb
+E:\проекты\qwerty\qwerty\obj\Debug\qwerty.exe
+E:\проекты\qwerty\qwerty\obj\Debug\qwerty.pdb
